@@ -43,7 +43,7 @@
 | Path | Link |
 | ----------- | :---------: |
 | Android Application Repository | [Mobile Development Repository](https://github.com/Afdalgan/NutriCheck-MD-Repo) |
-| Machine Learning Repository | [Mechine Learning Repository](https://github.com/dwipratiwiy/NutriCheck_ML) |
+| Machine Learning Repository | [Mechine Learning Repository](https://github.com/dwipratiwiaprilya/ML_NutriCheck) |
 | Cloud Computing Backend API Repository | [Cloud Computing Repository](https://github.com/manzadhit/product-capstone-api) |
 
 # Demo Application
