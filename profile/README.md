@@ -36,7 +36,8 @@
   - Firestore
   - Docker
   - Express
-  - Hapi
+  - Cloud Storage
+  - Github Action
  
 # Repository
 
