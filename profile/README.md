@@ -1,3 +1,4 @@
+<h1 align="center"> NutriCheck: Instant Insights for Healthier Choices </h1> <br>
 <a>
     <img alt="Nutricheck" title="Nutricheck" src="https://github.com/NutriCheck-apk/documentasi/blob/main/NutriCheck.png">
   </a>
@@ -53,11 +54,13 @@ NutriCheck is an AI-powered Android application designed to help users understan
 
 # Repository
 
-| Path | Link |
-| ----------- | :---------: |
-| Android Application Repository | [Mobile Development Repository](https://github.com/Afdalgan/NutriCheck-MD-Repo) |
-| Machine Learning Repository | [Machine Learning Repository](https://github.com/dwipratiwiaprilya/ML_NutriCheck) |
-| Cloud Computing Backend API Repository | [Cloud Computing Repository](https://github.com/manzadhit/product-capstone-api) |
+| Path                                   | Link                                                                                         |
+|----------------------------------------|---------------------------------------------------------------------------------------------|
+| Android Application Repository         | [Mobile Development Repository](https://github.com/Afdalgan/NutriCheck-MD-Repo)            |
+| Machine Learning Repository            | [Machine Learning Repository](https://github.com/dwipratiwiaprilya/ML_NutriCheck)          |
+| Cloud Computing Backend API Repository | [Cloud Computing Repository](https://github.com/manzadhit/product-capstone-api)            |
+| Cloud Computing ML Deploy Model        | [ML Deploy Model](https://github.com/BochanUFM18/model-ml-capstone-project)                |  
+
 
 # Demo Application
 
