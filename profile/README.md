@@ -1,16 +1,23 @@
 <h1 align="center"> NutriCheck: Instant Insights for Healthier Choices </h1> <br>
 <a>
     <img alt="Nutricheck" title="Nutricheck" src="https://github.com/NutriCheck-apk/documentasi/blob/main/NutriCheck.png">
-  </a>
+</a>
+
+---
 
 # Introduction
 
-NutriCheck is an AI-powered Android application designed to help users understand the nutritional value of their meals by analyzing them based on the "Isi Piringku" concept, a guideline for balanced nutrition. This app offers a user-friendly platform for personalized diet analysis and health education, making it an essential tool for those striving for a healthier lifestyle.
+Indonesia faces three primary nutritional challenges: undernutrition, micronutrient deficiency (hidden hunger), and overnutrition. These issues contribute to serious health risks such as cardiovascular diseases, diabetes, and stunted growth in children. The root causes include limited public knowledge about nutrition and a lack of accessible tools to monitor daily intake.  
 
-### Key Features:
-- **Nutrition Dashboard**: Displays a comprehensive daily overview of calorie and nutrient intake, helping users achieve their dietary goals.
-- **NutriPedia**: Provides a rich library of articles about food, nutrition, and health to empower better dietary decisions.
-- **Scan History**: Allows users to review previously analyzed meals and track their nutritional insights.
+To address these challenges, we introduce **NutriCheck**, an AI-based Android application that provides a holistic solution through three main features:  
+
+- **NutriScan**: Scans food using the phone's camera to provide instant nutritional information. This feature helps users prevent undernutrition, address micronutrient deficiencies, and control calorie intake to reduce the risk of obesity and chronic diseases.  
+- **NutriPedia**: An interactive educational platform based on the "Isi Piringku" guidelines, designed to raise nutritional awareness and promote sustainable healthy eating habits.  
+- **NutriJourney**: Tracks daily food intake, delivers monthly analyses, and offers personalized nutrition recommendations to help users maintain a balanced diet and meet their nutritional needs.  
+
+NutriCheck is not just a nutrition tracker; it's a comprehensive platform for promoting healthier lifestyles through education, personalized insights, and practical tools. This repository focuses on the development of the mobile application component of NutriCheck.
+
+---
 
 # Team Member
 
