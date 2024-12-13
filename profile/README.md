@@ -61,3 +61,5 @@ NutriCheck is an AI-powered Android application designed to help users understan
 
 # Demo Application
 
+[![Cookinian](https://img.shields.io/badge/NutriCheck-Download%20APK-black.svg?style=for-the-badge&logo=android&logoColor=green)](https://drive.google.com/drive/folders/10ZRpjiFj_0joLLUYSqo5UeWYknnDnQ0A)
+
