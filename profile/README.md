@@ -1,3 +1,7 @@
+<a>
+    <img alt="Nutricheck" title="Nutricheck" src="https://github.com/NutriCheck-apk/documentasi/blob/main/NutriCheck.png">
+  </a>
+
 # Introduction
 
 NutriCheck is an AI-powered Android application designed to help users understand the nutritional value of their meals by analyzing them based on the "Isi Piringku" concept, a guideline for balanced nutrition. This app offers a user-friendly platform for personalized diet analysis and health education, making it an essential tool for those striving for a healthier lifestyle.
