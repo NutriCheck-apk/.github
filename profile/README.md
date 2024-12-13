@@ -43,8 +43,9 @@ NutriCheck is an AI-powered Android application designed to help users understan
   - Room
 
 - **Human Resources**
-  - Machine Learning Experts
-  - UI/UX Designers
+  - Machine Learning 
+  - Clouc Computing
+  - Mobile Development
 
 # Repository
 
