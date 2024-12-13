@@ -17,27 +17,33 @@
 | A206B4KX0754  | Ayustina Samudin                          | Mobile Development| Universitas Halu Oleo  |
 
 
-# Architecture
+# Resources
 
-- **Machine Learning:**
-  - Python
-  - TensorFlow Lite
-  - Roboflow
-  - Google Colab
-
-- **Mobile Development:**
-  - Figma
-  - Kotlin
+- **Tools**
+  - Jupyter Notebook
+  - Google Collab
+  - VIsual Studio COde
+  - Github
+  - Google Cloud Console
   - Android Studio
+  - FIgma
+
+- **Library**
+  - Tensorflow
+  - Tenssorflow.keras
+  - Pandas
+  - NUmpy
+  - Matplotlib.pyplot
+  - Sckit - Learn
+  - Express JS
+  - Flas
+  - Retrofit
   - Room
 
-- **Cloud Computing:**
-  - Google Cloud Run
-  - Firestore
-  - Docker
+- **Human Resources**
+  - Mechine Learning
   - Express
-  - Cloud Storage
-  - Github Action
+  - UI/UX Designers
  
 # Repository
 
