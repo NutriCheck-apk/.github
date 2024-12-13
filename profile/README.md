@@ -35,14 +35,13 @@
   - NUmpy
   - Matplotlib.pyplot
   - Sckit - Learn
-  - Express JS
-  - Flas
+  - Express.js
+  - Flask
   - Retrofit
   - Room
 
 - **Human Resources**
-  - Mechine Learning
-  - Express
+  - Mechine Learning Experts
   - UI/UX Designers
  
 # Repository
